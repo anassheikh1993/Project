@@ -47,7 +47,26 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CannonMovement.cs" />
+     <Compile Include="Assets\CrossPlatformInputInitialize.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\AudioManager.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Bubble.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\BubbleGrid.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\BubbleManager.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\FallEffect.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\FastStringReader.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Finger.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\G.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Index.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\LBRect.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Levels.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Misc.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\ParkingStateInfo.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Utilities\D.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Utilities\ExtensionMethods.cs" />
+     <Compile Include="Assets\Shooting Bubble\Scripts\Utilities\Singleton.cs" />
+     <Compile Include="Assets\Shooting Bubble\iTween\Plugins\iTween.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Shooting Bubble\Resources\leveldata.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
